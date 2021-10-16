@@ -1,11 +1,6 @@
-# cs12-2-digital-contracts
+# digital-contracts
 
 COMP5703 CS12-2 Digital Contracts
-
-GROUP MEMBERS: Patrick Pan, Chirag Mudgal, Bibarys Amirzhanov, Darvin Patel,
-Avigya Rana
-
-CLIENT: Jamie Cerexhe
 
 ## Setup
 
