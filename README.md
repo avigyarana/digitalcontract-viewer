@@ -3,7 +3,7 @@
 ## Setup
 
 1. Clone this repository:
-   `git clone git@github.sydney.edu.au:ppan4750/cs12-2-digital-contracts.git`
+  
 2. Install yarn: `brew install yarn`
 3. Navigate to `/app/` and `/services/` and install dependencies: `yarn install`
 4. Setup database and env variables:
