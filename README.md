@@ -1,7 +1,5 @@
 # digital-contracts
 
-COMP5703 CS12-2 Digital Contracts
-
 ## Setup
 
 1. Clone this repository:
